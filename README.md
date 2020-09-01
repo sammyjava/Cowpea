@@ -1,2 +1,2 @@
 # Cowpea
-Various analyses related to cowpea
+Various publications and analyses related to cowpea
